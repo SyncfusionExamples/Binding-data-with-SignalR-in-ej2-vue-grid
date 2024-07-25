@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "IRVv++694rMhY2WFk7ojxOew0tZpZpK1ojzH8TRcPkU=",
+  "Source": "SignalR.Server",
+  "BasePath": "_content/SignalR.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\New folder\\dataBinding\\signalR vue\\SignalR\\signalr.client\\signalr.client.esproj",
+      "Version": 2,
+      "Source": "signalr.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
